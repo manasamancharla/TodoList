@@ -9,7 +9,11 @@ A **TodoList App** built with **React Native** for seamless task management. Pow
 - **Todo Completion Tracking**: Monitor completed todos for each list.
 - **Avatar Management**: Users can upload, update, and display their profile avatars.
 
-![alt text](https://github.com/manasamancharla/TodoList/assets/readme/screen1.jpg)
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github.com/manasamancharla/Demo/blob/main/assets/readme/screen1.jpeg" alt="Alt Text" width="300" height="700">
+<img src="https://github.com/manasamancharla/Demo/blob/main/assets/readme/screen2.jpeg" alt="Alt Text" width="300" height="700">
+<img src="https://github.com/manasamancharla/Demo/blob/main/assets/readme/screen3.jpeg" alt="Alt Text" width="300" height="700">
+</div>
 
 ## Tech Stack 💻
 
@@ -118,3 +122,7 @@ Follow these steps to run the app locally:
 ## Contributing 🤝
 
 Contributions are welcome!
+
+## License 📜
+
+This project is licensed under the MIT License. See the LICENSE file for details.
