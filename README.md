@@ -10,10 +10,10 @@ A **TodoList App** built with **React Native** for seamless task management. Pow
 - **Avatar Management**: Users can upload, update, and display their profile avatars.
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://github.com/manasamancharla/Demo/blob/main/assets/readme/screen1.jpeg" alt="Alt Text" width="300" height="700">
-<img src="https://github.com/manasamancharla/Demo/blob/main/assets/readme/screen2.jpeg" alt="Alt Text" width="300" height="700">
-<img src="https://github.com/manasamancharla/Demo/blob/main/assets/readme/screen3.jpeg" alt="Alt Text" width="300" height="700">
-<img src="https://github.com/manasamancharla/Demo/blob/main/assets/readme/screen5.jpeg" alt="Alt Text" width="300" height="700">
+<img src="https://github.com/manasamancharla/TodoList/blob/main/assets/readme/screen1.jpeg" alt="Alt Text" width="300" height="700">
+<img src="https://github.com/manasamancharla/TodoList/blob/main/assets/readme/screen2.jpeg" alt="Alt Text" width="300" height="700">
+<img src="https://github.com/manasamancharla/TodoList/blob/main/assets/readme/screen3.jpeg" alt="Alt Text" width="300" height="700">
+<img src="https://github.com/manasamancharla/TodoList/blob/main/assets/readme/screen5.jpeg" alt="Alt Text" width="300" height="700">
 </div>
 
 ## Tech Stack 💻
